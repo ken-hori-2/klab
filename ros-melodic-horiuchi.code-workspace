@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://attached-container+7b22636f6e7461696e65724e616d65223a222f726f732d6d656c6f6469632d686f726975636869227d/root/catkin_ws"
+		}
+	],
+	"remoteAuthority": "attached-container+7b22636f6e7461696e65724e616d65223a222f726f732d6d656c6f6469632d686f726975636869227d",
+	"settings": {
+		"ros.distro": "melodic",
+		"python.autoComplete.extraPaths": [
+			"/opt/ros/melodic/lib/python2.7/dist-packages"
+		]
+	}
+}
