@@ -24,10 +24,21 @@ Requirementで列挙したライブラリなどのインストール方法
 DEMOの実行方法など、"klab"の基本的な使い方を説明
  
 ```bash
-cd ~/catkin_ws
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+cd ~/catkin_ws/src
+git clone https://github.com/ken-hori-2/klab.git
+cd ~/klab
+xhost local:root
+./start.sh
+./exec.sh
+
+exit
+./stop.sh
+
+
+
+
+
+
 ```
  
 # Note
