@@ -16,7 +16,7 @@ dockarを用いてROSを使用する
 Requirementで列挙したライブラリなどのインストール方法
  
 ```bash
-#pip install huga_package
+
 ```
  
 # Usage
