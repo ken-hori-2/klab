@@ -34,11 +34,6 @@ xhost local:root
 exit
 ./stop.sh
 
-
-
-
-
-
 ```
  
 # Note
